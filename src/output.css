@@ -733,6 +733,10 @@ video {
   background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1));
 }
 
+.bg-\[url\(\'\/imgi_8_photo-1503516459261-40c66117780a\.jpeg\'\)\] {
+  background-image: url('/imgi_8_photo-1503516459261-40c66117780a.jpeg');
+}
+
 .bg-\[url\(\'\/src\/imgi_2_photo-1501631259223-89d4e246ed23\.jpeg\'\)\] {
   background-image: url('/src/imgi_2_photo-1501631259223-89d4e246ed23.jpeg');
 }
@@ -755,6 +759,50 @@ video {
 
 .bg-\[url\(\'\/src\/imgi_8_photo-1503516459261-40c66117780a\.jpeg\'\)\] {
   background-image: url('/src/imgi_8_photo-1503516459261-40c66117780a.jpeg');
+}
+
+.bg-\[url\(\'\.\.s\/imgi_8_photo-1503516459261-40c66117780a\.jpeg\'\)\] {
+  background-image: url('..s/imgi_8_photo-1503516459261-40c66117780a.jpeg');
+}
+
+.bg-\[url\(\'\.\.src\/imgi_8_photo-1503516459261-40c66117780a\.jpeg\'\)\] {
+  background-image: url('..src/imgi_8_photo-1503516459261-40c66117780a.jpeg');
+}
+
+.bg-\[url\(\'\/\.\.src\/imgi_8_photo-1503516459261-40c66117780a\.jpeg\'\)\] {
+  background-image: url('/..src/imgi_8_photo-1503516459261-40c66117780a.jpeg');
+}
+
+.bg-\[url\(\'\.\.\/src\/imgi_8_photo-1503516459261-40c66117780a\.jpeg\'\)\] {
+  background-image: url('../src/imgi_8_photo-1503516459261-40c66117780a.jpeg');
+}
+
+.bg-\[url\(\'image\/imgi_8_photo-1503516459261-40c66117780a\.jpeg\'\)\] {
+  background-image: url('image/imgi_8_photo-1503516459261-40c66117780a.jpeg');
+}
+
+.bg-\[url\(\'images\/imgi_8_photo-1503516459261-40c66117780a\.jpeg\'\)\] {
+  background-image: url('images/imgi_8_photo-1503516459261-40c66117780a.jpeg');
+}
+
+.bg-\[url\(\'images\/imgi_2_photo-1501631259223-89d4e246ed23\.jpeg\'\)\] {
+  background-image: url('images/imgi_2_photo-1501631259223-89d4e246ed23.jpeg');
+}
+
+.bg-\[url\(\'images\/imgi_7_photo-1521145239174-279dc2227166\.jpeg\'\)\] {
+  background-image: url('images/imgi_7_photo-1521145239174-279dc2227166.jpeg');
+}
+
+.bg-\[url\(\'images\/imgi_4_photo-1528855275993-0f4a23fedd62\.jpeg\'\)\] {
+  background-image: url('images/imgi_4_photo-1528855275993-0f4a23fedd62.jpeg');
+}
+
+.bg-\[url\(\'images\/imgi_5_photo-1449495169669-7b118f960251\.jpeg\'\)\] {
+  background-image: url('images/imgi_5_photo-1449495169669-7b118f960251.jpeg');
+}
+
+.bg-\[url\(\'images\/imgi_6_f84a3a01\.jpeg\'\)\] {
+  background-image: url('images/imgi_6_f84a3a01.jpeg');
 }
 
 .bg-contain {
